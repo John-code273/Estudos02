@@ -2,7 +2,7 @@ import java.math.*;
 import java.util.Scanner;
 
 public class Main{
-    public static void main() {
+    public static void main(String[] args) {
         Object retangulo = new Object();
         Scanner sc = new Scanner(System.in);
         System.out.print("entre com a altura do retangulo: ");
